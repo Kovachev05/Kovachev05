@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kovachev05
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
-- 📫 How to reach me ...
+
 
 <!---
 Kovachev05/Kovachev05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
