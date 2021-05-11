@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Kovachev05
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+![Image](https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif)
 
 
 <!---
